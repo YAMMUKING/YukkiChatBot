@@ -15,11 +15,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("20355006"))
+API_HASH = getenv("5e15a1173b54911beadf3a57abf656e6")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7914774494:AAH4LoxIHij7ZqSg31RrjLrgGsRt2HnKSVA")
 
 # SUDO USERS
 SUDO_USER = list(
