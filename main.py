@@ -26,9 +26,9 @@ SUDO_USERS = config.SUDO_USER
 
 app = pyrogram.Client(
     ":YukkiBot:",
-    config.API_ID,
-    config.API_HASH,
-    bot_token=config.BOT_TOKEN,
+    config.20355006,
+    config.5e15a1173b54911beadf3a57abf656e6,
+    bot_token=config.7914774494:AAH4LoxIHij7ZqSg31RrjLrgGsRt2HnKSVA,
 )
 
 save = {}
